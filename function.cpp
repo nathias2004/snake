@@ -13,7 +13,7 @@
 #include "function.h"
 
 using namespace std;
-
+//sdjhdkewasn
 int kbhit(void){
 	struct termios oldt, newt;
 	int ch;

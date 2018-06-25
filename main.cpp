@@ -4,7 +4,7 @@
 #include "function.h"
 
 using namespace std;
-
+//sdfsdfsfsdda
 int main(){
 	int starting_length_of_snake = 5;
 	Maze M(starting_length_of_snake);
